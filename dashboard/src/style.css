@@ -1,0 +1,12 @@
+.list-group a:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+.icon-size {
+  font-size: 50px;
+}
+.icon-size-side {
+  font-size: 30px;
+  padding: 5px;
+}
